@@ -30,13 +30,13 @@ Guidelines for bug reports:
 2. **Check if the issue has been fixed** &mdash; try to reproduce it using the
    latest `master` or development branch in the repository.
 
-3. **Demonstrate the problem** &mdash; provide clear steps that can be reproduced.
+3. **Demonstrate the 
+problem** &mdash; provide clear steps that can be reproduced.
 
 A good bug report should not leave others needing to chase you up for more
 information. Please try to be as detailed as possible in your report. What is
 your environment? What steps will reproduce the issue? What OS experienced the 
-problem? What would you expect to be the outcome? All these details will help 
-to fix any potential bugs.
+problem? What would you expect to be the outcome? All these details will help to fix any potential bugs.
 
 ## Feature Requests
 
@@ -53,7 +53,7 @@ commits.
 
 **Please ask first** before embarking on any significant pull request (e.g.
 implementing features, refactoring code, porting to a different language),
-otherwise you risk spending a lot of time working on something that might
+otherwise, you risk spending a lot of time working on something that might
 not get accepted into the project.
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project owner to
